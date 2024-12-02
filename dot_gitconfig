@@ -1,0 +1,9 @@
+[user]
+	name = Ivan Malishevskyi
+	email = ivanmalishevskiy0@gmail.com
+[core]
+	editor = micro
+[init]
+	defaultBranch = main
+[credential "helperselector"]
+	selected = manager

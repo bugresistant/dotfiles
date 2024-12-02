@@ -1,0 +1,12 @@
+[2m2024-08-05T15:56:03.038016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[0]: missing field `bindings` at line 125 column 5
+[2m2024-08-05T15:57:54.355541Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[0].commands: invalid type: string "exec '%PROGRAMFILES%/Ablaze Floorp/floorp.exe'", expected a sequence at line 125 column 15
+[2m2024-08-05T16:01:52.235401Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[0].commands: unrecognized subcommand
+ at line 125 column 15
+[2m2024-08-05T16:03:09.998128Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[0].bindings: invalid type: string "Alt+F2", expected a sequence at line 126 column 15
+[2m2024-08-05T16:03:57.614242Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%PROGRAMFILES%/Ablaze\\ Floorp/floorp.exe'.\n\nError: Program path is not valid for command '%PROGRAMFILES%/Ablaze\\ Floorp/floorp.exe'."
+[2m2024-08-05T16:04:29.656239Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%ProgramFiles%/Ablaze\\ Floorp/floorp.exe'.\n\nError: Program path is not valid for command '%ProgramFiles%/Ablaze\\ Floorp/floorp.exe'."
+[2m2024-08-05T16:06:47.682232Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected '-' indicator at line 127 column 3, while parsing a block collection at line 125 column 3
+[2m2024-08-05T16:06:57.497965Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 128 column 6, while parsing a block mapping at line 127 column 5
+[2m2024-08-05T16:07:10.379445Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'scoop/apps/onecommander/current/OneCommander.exe'.\n\nError: Program path is not valid for command 'scoop/apps/onecommander/current/OneCommander.exe'."
+[2m2024-08-08T11:13:10.369839Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'taskkill/im zebar.exe'.\n\nError: Program path is not valid for command 'taskkill/im zebar.exe'."
+[2m2024-08-08T11:14:19.408930Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'TaskClose zebar.exe'.\n\nError: The operation was canceled by the user. (0x800704C7)"
