@@ -1,0 +1,24 @@
+/* Hide the close, minimize, and maximize buttons */
+.titlebar-button-container {
+    display: none !important;
+}
+
+/* Remove the ::after pseudo-element from the workspace-tab-header-container */
+.workspace-tab-header-container::after {
+    content: none !important; /* Remove the pseudo-element */
+}
+
+/* Adjust workspace-tab-header-container to avoid overlapping with buttons */
+.workspace-tab-header-container {
+    display: flex !important;
+    justify-content: space-between !important; /* Distribute space between left and right content */
+    align-items: center !important;
+    width: 100% !important; /* Take full width of the parent */
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    flex-grow: 0 !important; /* Prevent it from growing unnecessarily */
+    flex-shrink: 0 !important; /* Prevent it from shrinking */
+    position: relative !important; /* Ensure proper stacking for z-index */
+    padding-left: 8px !important; /* Add space to the left side to move buttons right */
+}

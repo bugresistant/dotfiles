@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "hide-window-buttons"
+  ]
+}

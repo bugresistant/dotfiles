@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9099136a0611ab19",
+    "type": "split",
+    "children": [
+      {
+        "id": "223afc2189b4723e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef4e6c751fded0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-12-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-28"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "761d006f84674223",
+    "type": "split",
+    "children": [
+      {
+        "id": "6979beddd40e93b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7d5250ac912004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb179597454e1fce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb9987cf94ff27bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e4ad0bec01118caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f5e2ee719223bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6f116a4900b9b8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e808fc24bd1169df",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2a3d0394488f96e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2024-12-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-28"
+            }
+          },
+          {
+            "id": "4c2506692c26b16f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2024-12-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-28"
+            }
+          },
+          {
+            "id": "72531be64a7789bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2024-12-28.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-28"
+            }
+          },
+          {
+            "id": "9fdcd1484c95dc63",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e808fc24bd1169df",
+  "lastOpenFiles": [
+    "Telegram Feed.md",
+    "templates/telegram forwarded message.md",
+    "files/telegram/photos/photo_283355825_2 - 20241228194504826.jpg",
+    "files/telegram/photos",
+    "files/telegram",
+    "Exams preparation.md",
+    "Note taking.md",
+    "files/telegram photos/photo_283355825_1 - 20241228194036030.jpg",
+    "files/246223-e1656429619235.jpeg",
+    "files/telegram media/photo_283355825_1 - 20241228193841606.jpg",
+    "files/telegram photos",
+    "files/The_Offspring_-_Promo_Shot_2_Credit_Daveed_Benito.jpg",
+    "files/test.jpg",
+    "files/imagine-dragons-Press-Photo-Credit-Eric-Ray-Davidson-2022-billboard-1548.webp",
+    "files/Arcane_KeyArt_2024-05-29-829x1024.jpg",
+    "files/ab6761610000e5eb4b3cfc24737acb15e73e8bd6.jpg",
+    "files/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0.jpg",
+    "files/telegram media",
+    "Всё, показал мод, разыграл коп - 20241228193607239.md",
+    "Telegram/photos",
+    "Telegram",
+    "~/Чилловая овечка 😎 - 20241228193441084.md",
+    "~",
+    "Telegram/Test - 20241228193027816.md",
+    "Telegram/Всё, показал мод, разыграл коп - 20241228193052432.md",
+    "Запеканка.md",
+    "Telegram/Повторить порядок выполнения с - 20241228192533415.md",
+    "ASP.NET learning.md",
+    "Concerts to visit.md",
+    "magaz.md",
+    "Daily notes/2024-12-28.md",
+    "Daily notes/2024-12-17.md",
+    "Daily notes/2024-12-29.md",
+    "Daily notes/2024-12-20.md",
+    "Daily notes/2024-12-27.md",
+    "SQL cheat sheet.md",
+    "Daily notes/~syncthing~2024-12-27.md.tmp",
+    "Język polski materiały do nauki.md",
+    "Daily notes/2024-12-25.md",
+    "test notes/test.md",
+    "Daily notes",
+    "Thoughts; Dec 19th 2024.md",
+    "operating systems.md",
+    "Słownictwo języka polskiego.md",
+    "~syncthing~magaz.sync-conflict-20231227-052136-IBROLRC.md.tmp",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
